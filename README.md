@@ -53,6 +53,8 @@ Built interactive Power BI dashboard tracking sales, profit & operational metric
 - Technology category drives highest profit
 - Standard shipping most popular but lower margin
 - Geographic concentration in US East Coast
+  <img width="1010" height="612" alt="image" src="https://github.com/user-attachments/assets/2e372085-27b3-446c-87bd-0d032e137f7e" />
+
 
 ## Project Structure
 
